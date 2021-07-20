@@ -31,6 +31,9 @@
     "apiharmony"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "standard": {
     "ignore": [
       "*.js"
